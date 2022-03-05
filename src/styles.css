@@ -1,0 +1,8 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.horizontal-line {
+  bottom: calc(100%-1.6rem);
+}
